@@ -1,0 +1,4 @@
+baseURL = "https://carlosadean.eti.br/"
+languageCode = "en-us"
+title = "Carlos Adean's personal blog"
+theme = "hugo-ink"
