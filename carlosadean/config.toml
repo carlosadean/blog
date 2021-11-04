@@ -9,7 +9,7 @@ googleAnalytics = ""
 [params]
 title = "I'm Carlos Adean"
 author = "Carlos Adean"
-description = "Welcome to my universe"
+description = "Welcome to my universe of knowledge and thoughts "
 profilePicture = "images/carlosadean.jpg"
 copyright = "2020-{{ YEAR }}"
 displayMode = "dark"
