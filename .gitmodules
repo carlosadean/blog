@@ -2,3 +2,6 @@
 	path = carlosadean/public
 	url = git@github.com:carlosadean/carlosadean.github.io.git
 	branch = main
+[submodule "carlosadean/themes/anatole"]
+	path = carlosadean/themes/anatole
+	url = https://github.com/lxndrblz/anatole.git

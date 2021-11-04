@@ -1,4 +1,60 @@
 baseURL = "https://carlosadean.eti.br/"
 languageCode = "en-us"
 title = "Carlos Adean"
-theme = "beautifulhugo"
+theme = "anatole"
+paginate = "10"
+disqusShortname = "c4rl"
+googleAnalytics = ""
+
+[params]
+title = "I'm Carlos Adean"
+author = "Carlos Adean"
+description = "Welcome to my universe"
+profilePicture = "images/carlosadean.jpg"
+copyright = "2020-{{ YEAR }}"
+displayMode = "dark"
+singleDateFormat = "Mon, Jan 2, 2006"
+indexDateFormat = "Mon, Jan 2, 2006"
+listDateFormat = "Jan 2"
+contentratio = 0.7
+readMore = true
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "Github"
+url = "https://github.com/carlosadean"
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/carlosadean"
+
+[[params.socialIcons]]
+icon = "fab fa-twitter"
+title = "Twitter"
+url = "https://twitter.com/CarlosAdean"
+
+[languages]
+[en]
+LanguageName = "EN"
+
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/posts/"
+
+  [[menu.main]]
+  name = "About"
+  weight = 300
+  identifier = "about"
+  url = "/about/"
