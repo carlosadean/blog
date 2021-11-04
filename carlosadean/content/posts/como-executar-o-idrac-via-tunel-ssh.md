@@ -1,7 +1,7 @@
 ---
 title: "Como redirecionar o console remoto do iDRAC via tunel SSH"
 date: 2021-11-03T20:33:07-03:00
-draft: true
+draft: false
 author: "Carlos Adean"
 tags: ["ssh", "idrac"]
 categories: ["sysadmin", "network"]

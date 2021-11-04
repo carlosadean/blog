@@ -30,9 +30,10 @@ title = "Linkedin"
 url = "https://www.linkedin.com/in/carlosadean"
 
 [[params.socialIcons]]
-icon = "fab fa-twitter"
-title = "Twitter"
-url = "https://twitter.com/CarlosAdean"
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:carlosadean@gmail.com"
+
 
 [languages]
 [en]
